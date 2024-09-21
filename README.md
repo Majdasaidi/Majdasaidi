@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Majdasaidi
-- 👀 I’m interested in python/php developping
-- 🌱 I’m currently learning how to develop my competences in php and python
+- 👀 I’m interested in python developping
+- 🌱 I’m currently learning how to develop my competences in python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
